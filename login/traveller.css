@@ -1,0 +1,15 @@
+.back_app{
+    background: rgb(0,0,0);
+    background: linear-gradient(37deg, rgba(0,0,0,1) 0%, rgba(42,22,232,0.8099614845938375) 32%);
+    /* background: rgb(246, 248, 250); */
+}
+.image{
+    height: auto;
+    width: 50px;
+
+    /* max-width: 100px;
+    min-width: auto;
+    max-height: 100px;
+    min-height: auto */
+    
+}
